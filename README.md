@@ -92,4 +92,4 @@ MIT — free for personal & commercial use.
 
 ## 🙌 Author
 
-Developed by [Your Name](https://github.com/yourusername)
+Developed by [Pea](https://github.com/PeaIsPea)
